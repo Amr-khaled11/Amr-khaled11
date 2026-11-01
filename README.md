@@ -27,7 +27,7 @@
 
 ### GitHub stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amr-khaled11&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1015&title_color=D0BCCC&text_color=ffffff&icon_color=8f7c8f" alt="GitHub stats" />
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-khaled11&layout=compact&langs_count=6&hide_border=true&bg_color=0d1015&title_color=D0BCCC&text_color=ffffff" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-khaled11&hide_border=true&background=0D1015&ring=D0BCCC&fire=8F7C8F&currStreakLabel=D0BCCC&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=9E9E9E" alt="GitHub streak" />
